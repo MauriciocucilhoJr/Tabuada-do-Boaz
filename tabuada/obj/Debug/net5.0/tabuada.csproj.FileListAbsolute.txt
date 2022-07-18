@@ -1,0 +1,16 @@
+D:\Curso generation\tabuada\tabuada\bin\Debug\net5.0\tabuada.exe
+D:\Curso generation\tabuada\tabuada\bin\Debug\net5.0\tabuada.deps.json
+D:\Curso generation\tabuada\tabuada\bin\Debug\net5.0\tabuada.runtimeconfig.json
+D:\Curso generation\tabuada\tabuada\bin\Debug\net5.0\tabuada.runtimeconfig.dev.json
+D:\Curso generation\tabuada\tabuada\bin\Debug\net5.0\tabuada.dll
+D:\Curso generation\tabuada\tabuada\bin\Debug\net5.0\tabuada.pdb
+D:\Curso generation\tabuada\tabuada\obj\Debug\net5.0\tabuada.csproj.AssemblyReference.cache
+D:\Curso generation\tabuada\tabuada\obj\Debug\net5.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso generation\tabuada\tabuada\obj\Debug\net5.0\tabuada.AssemblyInfoInputs.cache
+D:\Curso generation\tabuada\tabuada\obj\Debug\net5.0\tabuada.AssemblyInfo.cs
+D:\Curso generation\tabuada\tabuada\obj\Debug\net5.0\tabuada.csproj.CoreCompileInputs.cache
+D:\Curso generation\tabuada\tabuada\obj\Debug\net5.0\tabuada.dll
+D:\Curso generation\tabuada\tabuada\obj\Debug\net5.0\refint\tabuada.dll
+D:\Curso generation\tabuada\tabuada\obj\Debug\net5.0\tabuada.pdb
+D:\Curso generation\tabuada\tabuada\obj\Debug\net5.0\tabuada.genruntimeconfig.cache
+D:\Curso generation\tabuada\tabuada\obj\Debug\net5.0\ref\tabuada.dll
